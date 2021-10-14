@@ -8,8 +8,6 @@ const Game = (props) => {
 
   const handleCardCallback = () => {
     setCurrScore(currScore + 1); 
-
-    props.scoreCallback(currScore);
   }
 
   const handleResetCallback = () => {
@@ -20,6 +18,10 @@ const Game = (props) => {
 
     props.scoreCallback(currScore);
   }
+
+  useEffect(() => {
+    props.scoreCallback(currScore);
+  });
 
 
   return (

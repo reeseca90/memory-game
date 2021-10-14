@@ -8,11 +8,19 @@ const Display = (props) => {
 
   // probably just a DIV with a higher zindex over the cards display? idk
   const displayWinnerMessage = () => {
-
+    if (currScore === 10) {
+      alert('winner! reload the page');
+    }
   }
 
   const scoreCallback = (childData) => {
     setCurrScore(childData);
+
+    if (currScore > highScore) {
+      setHighScore(currScore);
+    }
+    
+    displayWinnerMessage();
   }
 
   return (

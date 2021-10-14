@@ -14,8 +14,6 @@ const Cards = (props) => {
     {name: 'ten', clicked: false, id: 9}
   ]);
 
-  const random = [];
-
   const tableData = (e) => {
     e.preventDefault();
     console.table(cards)
