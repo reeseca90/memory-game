@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reeseca90/memory-game/static/css/main.7317cf7b.chunk.css",
+    "main.js": "/reeseca90/memory-game/static/js/main.aed29c8a.chunk.js",
+    "main.js.map": "/reeseca90/memory-game/static/js/main.aed29c8a.chunk.js.map",
+    "runtime-main.js": "/reeseca90/memory-game/static/js/runtime-main.5cc10251.js",
+    "runtime-main.js.map": "/reeseca90/memory-game/static/js/runtime-main.5cc10251.js.map",
+    "static/js/2.3a150103.chunk.js": "/reeseca90/memory-game/static/js/2.3a150103.chunk.js",
+    "static/js/2.3a150103.chunk.js.map": "/reeseca90/memory-game/static/js/2.3a150103.chunk.js.map",
+    "index.html": "/reeseca90/memory-game/index.html",
+    "static/css/main.7317cf7b.chunk.css.map": "/reeseca90/memory-game/static/css/main.7317cf7b.chunk.css.map",
+    "static/js/2.3a150103.chunk.js.LICENSE.txt": "/reeseca90/memory-game/static/js/2.3a150103.chunk.js.LICENSE.txt",
+    "static/media/aquarius.d2b431ac.jpg": "/reeseca90/memory-game/static/media/aquarius.d2b431ac.jpg",
+    "static/media/aries.971e94a2.jpg": "/reeseca90/memory-game/static/media/aries.971e94a2.jpg",
+    "static/media/cancer.18bea563.jpg": "/reeseca90/memory-game/static/media/cancer.18bea563.jpg",
+    "static/media/gemini.e34de85c.jpg": "/reeseca90/memory-game/static/media/gemini.e34de85c.jpg",
+    "static/media/leo.489d0967.jpg": "/reeseca90/memory-game/static/media/leo.489d0967.jpg",
+    "static/media/libra.7045bacb.jpg": "/reeseca90/memory-game/static/media/libra.7045bacb.jpg",
+    "static/media/sagittarius.6f4b615e.jpg": "/reeseca90/memory-game/static/media/sagittarius.6f4b615e.jpg",
+    "static/media/scorpio.09a90a4f.jpg": "/reeseca90/memory-game/static/media/scorpio.09a90a4f.jpg",
+    "static/media/taurus.8a1aaa9e.jpg": "/reeseca90/memory-game/static/media/taurus.8a1aaa9e.jpg",
+    "static/media/virgo.56b49ce1.jpg": "/reeseca90/memory-game/static/media/virgo.56b49ce1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cc10251.js",
+    "static/js/2.3a150103.chunk.js",
+    "static/css/main.7317cf7b.chunk.css",
+    "static/js/main.aed29c8a.chunk.js"
+  ]
+}
