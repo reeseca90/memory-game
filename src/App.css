@@ -2,18 +2,33 @@
   display: flex;
   flex-direction: column;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: #00002c;
+  color: white;
+  min-width: 450px;
+  width: 97vw;
+  height: 97vh;
+  align-items: center;
 }
 
 #display {
   display: flex;
   flex-direction: column;
   gap: 24px;
+  max-width: 1250px;
 }
 
 header {
   display: flex;
   gap: 24px;
   font-size: 18px;
+  justify-content: space-between;
+  padding: 15px;
+  align-items: center;
+}
+
+#header-left {
+  font-size: 36px;
+  font-weight: bold;  
 }
 
 #scores {
@@ -22,23 +37,34 @@ header {
   align-items: center;
   gap: 12px;
   font-size: 24px;
+  font-weight: bold;
+  padding: 24px;
 }
 
 #cardsArea {
   display: flex;
-  border: 1px solid black;
   flex-wrap: wrap;
   justify-content: space-around;
+  gap: 10px;
 }
 
 .card {
   display: flex;
   flex-direction: column;
-  border: 1px solid red;
+  border: 3px solid white;
+  border-radius: 15px;
   height: 300px;
-  width: 200px;
+  width: 220px;
   justify-content: space-around;
   align-items: center;
   margin: 5px;
+  background-color: #000083;
+  font-size: 32px;
 }
 
+img {
+  width: 195px;
+  height: 195px;
+  border-radius: 10px;
+  border: 1px solid white;
+}

@@ -26,7 +26,7 @@ const Display = (props) => {
   return (
     <div id="display">
       <header>
-        <section id="header-left">Craig's Memory Game</section>
+        <section id="header-left">Constellation Memory Game</section>
         <section id="header-right">Objective: click each card a single time. If you click a card a second time, your score will reset!</section>
       </header>
 

@@ -1,6 +1,5 @@
 import './App.css';
 import Display from './Display';
-import Game from './Game';
 
 function App() {
   return (
